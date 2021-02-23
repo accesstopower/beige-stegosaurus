@@ -25,6 +25,11 @@ sections:
     background_image_opacity: 8
     background_image_size: contain
     background_image_repeat: repeat
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/NgRYAwc8StY" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
