@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: primary
         has_icon: true
-        icon: github
+        icon: arrow-left
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
