@@ -11,7 +11,7 @@ sections:
         label: Contact Me
         url: /contact
         style: primary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
     image: images/hero.png
     image_alt: A smiling woman
