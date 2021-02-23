@@ -9,7 +9,7 @@ sections:
     actions:
       - type: action
         label: Contact Me
-        url: /about
+        url: /contact
         style: primary
     image: images/hero.png
     image_alt: A smiling woman
